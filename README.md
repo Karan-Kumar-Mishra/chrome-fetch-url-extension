@@ -8,7 +8,5 @@ Get URLs is a powerful and intuitive Google Chrome extension designed to simplif
 ![Screenshot (289)](https://github.com/Karan-Kumar-Mishra/chrome-fetch-url-extension/assets/93134411/a0b8e631-a5c8-4a4c-91d7-9911fce6caa4)
 ![Screenshot (288)](https://github.com/Karan-Kumar-Mishra/chrome-fetch-url-extension/assets/93134411/85b66b54-6bab-4e05-a54b-f83a3548fe1a)
 ![Uploading Screenshot (285).png…]![Screenshot (284)](https://github.com/Karan-Kumar-Mishra/chrome-fetch-url-extension/assets/93134411/8a65a77f-4cd9-4064-9bd8-013977f64f14)
-()![Uploading Screenshot (283).pn![Screenshot (281)](https://github.com/Karan-Kumar-Mishra/chrome-fetch-url-extension/assets/93134411/fac1a01e-19d1-40c5-8684-9de39ce686f8)
-g…]()
-![Uploading Screenshot (282).png…]()
+
 
