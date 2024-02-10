@@ -1,0 +1,27 @@
+{
+    "name":"Get urls",
+    "description":"'Gets URLs' is a Chrome extension which fetches all URLs present on the current webpage. Documentation can be found at https://github.com/Karan-Kumar-Mishra/chrome-fetch-url-extension.",
+    "version":"1.0",
+    "manifest_version":3,
+    "background":{
+        "service_worker":"background.js"
+    },
+    "icons":{
+        "16":"icon.png",
+        "32":"icon.png",
+        "48":"icon.png"
+    },
+    "permissions":[
+        "activeTab",
+        "scripting"
+    ],
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon": {
+            "16": "icon.png",
+            "48": "icon.png",
+            "128": "icon.png"
+          }
+      
+    }
+}
